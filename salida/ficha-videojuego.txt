@@ -1,0 +1,10 @@
+FICHA DE VIDEOJUEGO
+===================
+Estudiante: Camila
+Node.js: v22.13.1
+Plataforma del sistema: win32
+Título: The Legend of Zelda: Tears of the Kingdom
+Estudio: Nintendo EPD
+Año: 2023
+Plataformas: Nintendo Switch, PC (Emulador)
+¿Es multijugador?: No
